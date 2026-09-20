@@ -1,0 +1,6 @@
+{
+  "Name": "EXAMCONFLICTBOT",
+  "ProjectType": "Process",
+  "Description": "A project to identify exam conflicts.\r\n",
+  "MainFile": "Main.xaml"
+}
