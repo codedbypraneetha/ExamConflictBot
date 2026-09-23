@@ -163,7 +163,7 @@ Conflicts were seeded intentionally into the mock dataset to verify each rule fi
 
 ## How to Run
 
-1. **Clone the repo**: `git clone <YOUR-GITHUB-REPOSITORY-URL>`
+1. **Clone the repo**: `git clone <https://github.com/codedbypraneetha/ExamConflictBot>`
 2. **Open** `Main.xaml` in UiPath Studio.
 3. **Confirm** `Data/ExamSeating_MockData.xlsx` exists and contains all four required sheets.
 4. **Run** `Main.xaml`. It reads the Excel input, validates against R1–R5, builds the conflict table, and writes `ConflictReport.xlsx`.
