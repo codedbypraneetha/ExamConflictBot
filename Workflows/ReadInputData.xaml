@@ -145,7 +145,7 @@
                   <ueab:ReadRangeX DisplayName="Read Range" sap:VirtualizedContainerService.HintSize="416,168.8" sap2010:WorkflowViewState.IdRef="ReadRangeX_1" Range="[Excel.Sheet(&quot;TimeTable&quot;)]" SaveTo="[dtTimetable]" VisibleOnly="False" />
                   <ueab:ReadRangeX DisplayName="Read Range" sap:VirtualizedContainerService.HintSize="416,168.8" sap2010:WorkflowViewState.IdRef="ReadRangeX_2" Range="[Excel.Sheet(&quot;Rooms&quot;)]" SaveTo="[dtRooms]" VisibleOnly="False" />
                   <ueab:ReadRangeX DisplayName="Read Range" sap:VirtualizedContainerService.HintSize="416,168.8" sap2010:WorkflowViewState.IdRef="ReadRangeX_3" Range="[Excel.Sheet(&quot;FacultyAllotment&quot;)]" SaveTo="[dtFacultyAllotment]" VisibleOnly="False" />
-                  <ueab:ReadRangeX DisplayName="Read Range" sap:VirtualizedContainerService.HintSize="416,160" sap2010:WorkflowViewState.IdRef="ReadRangeX_4" Range="[Excel.Sheet(&quot;StudentEnrollment&quot;).Range(&quot;A1:B133&quot;)]" SaveTo="[dtStudentEnrollment]" VisibleOnly="False" />
+                  <ueab:ReadRangeX DisplayName="Read Range" sap:VirtualizedContainerService.HintSize="416,168.8" sap2010:WorkflowViewState.IdRef="ReadRangeX_4" Range="[Excel.Sheet(&quot;StudentEnrollment&quot;)]" SaveTo="[dtStudentEnrollment]" VisibleOnly="False" />
                 </Sequence>
               </ActivityAction>
             </ueab:ExcelApplicationCard.Body>
